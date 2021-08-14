@@ -13,3 +13,5 @@ For details please click on the executable in https://github.com/alpaddesai/Heal
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+Additional details reference : https://github.com/alpaddesai/PowerandInfluentialSkills
+
