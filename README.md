@@ -1,4 +1,4 @@
-# HealthCare
+# Health Care
 
 The project provides an overview of How to manage personal Healthcare
 
