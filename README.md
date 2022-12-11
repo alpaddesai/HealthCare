@@ -19,4 +19,4 @@ For details please click on the executable in https://github.com/alpaddesai/Heal
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022 and https://github.com/alpaddesai/AdvancedDentalHealthCare2022
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea and https://github.com/alpaddesai/AdvancedDentalHealthCare
