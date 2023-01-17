@@ -12,8 +12,6 @@ For details please click on the executable in https://github.com/alpaddesai/Heal
 
 ![image](Hospitals.jpg)
 
-![image](HealthCare_certificate.jpg)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
