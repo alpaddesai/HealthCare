@@ -15,4 +15,4 @@ The project provides an overview of How to manage personal Healthcare
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea 
+Additional details reference https://github.com/alpaddesai/LifeStyle
